@@ -32,7 +32,7 @@ function addWelcome (text, backgroundFilename, outputFilename) {
         textLineFilter = {
             filter: 'drawtext', 
             options: {
-                fontfile:'HelveticaNeue.ttf',
+                fontfile:'opensansbold.ttf',
                 text: text[i],
                 fontsize: '400',
                 fontcolor: 'white',
